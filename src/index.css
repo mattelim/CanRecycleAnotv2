@@ -1,0 +1,176 @@
+* {
+  margin-block-start: 0;
+  margin-block-end: 0;
+
+  font-family: "Manrope",-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #E3F4F6;
+  margin:0px;
+  color:black;
+}
+
+a {
+  color: #0099A9;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+header, footer {
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-bg {
+  width: 100vw;
+  position:fixed;
+  top:0px;
+  background-color: #B4EDF3;
+  display: flex;
+  justify-content: center;
+}
+
+.header-cont {
+  width: 100%;
+  max-width: 600px;
+}
+
+#head2.big {
+  display: flex;
+  height: 2em;
+}
+
+#head2.small {
+  display: flex;
+  height: 1.5em;
+}
+
+#head2 h2 {
+  margin-left: 10px;
+}
+
+#head2 h3 {
+  margin-left: 7px;
+}
+
+header p {
+  margin-top:10px;
+}
+
+#dummy-header {
+  color: #E3F4F6;
+  margin-bottom: 10px;
+}
+
+#dummy-search {
+  height: 1.5em;
+}
+
+.search-cont {
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+}
+
+#search {
+  display: block;
+  flex-grow:1; 
+  /*height: 2em;*/
+  font-size: 1em;
+  margin-bottom: 5px;
+}
+
+.items-flex{
+  max-width: 600px;
+  width: 100%;
+}
+.items-cont {
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+.item {
+  background-color: white;
+  margin: 15px 10px 15px 10px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.item2 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+
+.item3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.itemRemarks {
+  background-color: #FFECBB;
+  border-radius: 10px;
+  padding: 0px 10px 0px 10px;
+}
+
+.instCont{
+  color: #666;
+  padding-bottom: 10px;
+  /* display: none; */
+}
+
+.rec-yes {
+  color: limegreen;
+}
+
+.rec-no {
+  color: red;
+}
+
+.rec-may {
+  color: yellowgreen;
+}
+
+.isItemRe h2 {
+  display: block;
+  text-align: right;
+  width: 40px;
+}
+
+.instrBut {
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: black;
+}
+

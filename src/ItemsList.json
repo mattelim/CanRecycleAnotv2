@@ -1,0 +1,1507 @@
+[
+  {
+    "Num": 1,
+    "Material": "Paper",
+    "Item": "Printed paper (glossy and non-glossy)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 2,
+    "Material": "Paper",
+    "Item": "Writing paper",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 3,
+    "Material": "Paper",
+    "Item": "Newspaper",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 4,
+    "Material": "Paper",
+    "Item": "Paper flyers (glossy and non-glossy)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 5,
+    "Material": "Paper",
+    "Item": "Brochure (glossy and non-glossy)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 6,
+    "Material": "Paper",
+    "Item": "Magazine (glossy and non-glossy)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 7,
+    "Material": "Paper",
+    "Item": "Book (hardcover and paperback/softcover)",
+    "Recycle": "YES",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p><p>Bad condition → blue recycle bin</p>"
+  },
+  {
+    "Num": 8,
+    "Material": "Paper",
+    "Item": "Paper telephone directory",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 9,
+    "Material": "Paper",
+    "Item": "Envelope (with and without plastic window)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 10,
+    "Material": "Paper",
+    "Item": "Red packet",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 11,
+    "Material": "Paper",
+    "Item": "Namecard",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 12,
+    "Material": "Paper",
+    "Item": "Calendar (paper)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 13,
+    "Material": "Paper",
+    "Item": "Greeting card",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 14,
+    "Material": "Paper",
+    "Item": "Gift wrapping paper",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 15,
+    "Material": "Paper",
+    "Item": "Shredded paper",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 16,
+    "Material": "Paper",
+    "Item": "Paper receipt",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 17,
+    "Material": "Paper",
+    "Item": "Carton box",
+    "Recycle": "YES",
+    "Instructions": "<p>Flatten</p>"
+  },
+  {
+    "Num": 18,
+    "Material": "Paper",
+    "Item": "Paper packaging",
+    "Recycle": "YES",
+    "Instructions": "<p>Flatten</p>"
+  },
+  {
+    "Num": 19,
+    "Material": "Paper",
+    "Item": "Printed paper box",
+    "Recycle": "YES",
+    "Instructions": "<p>Flatten</p>"
+  },
+  {
+    "Num": 20,
+    "Material": "Paper",
+    "Item": "Cardboard box",
+    "Recycle": "YES",
+    "Instructions": "<p>Flatten</p>"
+  },
+  {
+    "Num": 21,
+    "Material": "Paper",
+    "Item": "Paper/cardboard egg tray",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 22,
+    "Material": "Paper",
+    "Item": "Beverage carton/packet",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty, rinse and flatten</p>"
+  },
+  {
+    "Num": 23,
+    "Material": "Paper",
+    "Item": "Milk carton",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty, rinse and flatten</p>"
+  },
+  {
+    "Num": 24,
+    "Material": "Paper",
+    "Item": "Juice carton",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty, rinse and flatten</p>"
+  },
+  {
+    "Num": 25,
+    "Material": "Paper",
+    "Item": "Drink carton/packet",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty, rinse and flatten</p>"
+  },
+  {
+    "Num": 26,
+    "Material": "Paper",
+    "Item": "Tetra Pak",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty, rinse and flatten</p>"
+  },
+  {
+    "Num": 27,
+    "Material": "Paper",
+    "Item": "Paper towel and toilet roll tube",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 28,
+    "Material": "Paper",
+    "Item": "Tissue box",
+    "Recycle": "YES",
+    "Instructions": "<p>Flatten</p>"
+  },
+  {
+    "Num": 29,
+    "Material": "Paper",
+    "Item": "Paper bag",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 30,
+    "Material": "Paper",
+    "Item": "Used paper disposables",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 31,
+    "Material": "Paper",
+    "Item": "Used paper cup",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 32,
+    "Material": "Paper",
+    "Item": "Used paper plate",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 33,
+    "Material": "Paper",
+    "Item": "Tissue paper",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 34,
+    "Material": "Paper",
+    "Item": "Paper towel",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 35,
+    "Material": "Paper",
+    "Item": "Toilet paper",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 36,
+    "Material": "Paper",
+    "Item": "Disposable wooden chopstick",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 37,
+    "Material": "Paper",
+    "Item": "Waxed paper",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 38,
+    "Material": "Paper",
+    "Item": "Paper packaging that are contaminated with food",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 39,
+    "Material": "Paper",
+    "Item": "Paper packaging with grease/oil stains",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 40,
+    "Material": "Paper",
+    "Item": "Greasy pizza box",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 41,
+    "Material": "Paper",
+    "Item": "Greasy pastry paper bag",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 42,
+    "Material": "Plastic",
+    "Item": "Plastic bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 43,
+    "Material": "Plastic",
+    "Item": "Plastic food container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 44,
+    "Material": "Plastic",
+    "Item": "Plastic beverage/drink bottle (carbonated and non-carbonated)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 45,
+    "Material": "Plastic",
+    "Item": "Plastic beverage/drink bottle (gassy and non-gassy)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 46,
+    "Material": "Plastic",
+    "Item": "PET bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 47,
+    "Material": "Plastic",
+    "Item": "Number 1, 2, 5, 6 plastic bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 48,
+    "Material": "Plastic",
+    "Item": "Polyethylene terephthalate bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 49,
+    "Material": "Plastic",
+    "Item": "PETE bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 50,
+    "Material": "Plastic",
+    "Item": "PP bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 51,
+    "Material": "Plastic",
+    "Item": "Polypropylene bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 52,
+    "Material": "Plastic",
+    "Item": "PS bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 53,
+    "Material": "Plastic",
+    "Item": "Polystyrene bottles/containers",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 54,
+    "Material": "Plastic",
+    "Item": "Plastic cleaning product bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 55,
+    "Material": "Plastic",
+    "Item": "Plastic washing product bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 56,
+    "Material": "Plastic",
+    "Item": "Plastic shampoo bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 57,
+    "Material": "Plastic",
+    "Item": "Plastic bodywash bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 58,
+    "Material": "Plastic",
+    "Item": "Plastic facial cleanser bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 59,
+    "Material": "Plastic",
+    "Item": "Plastic detergent bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 60,
+    "Material": "Plastic",
+    "Item": "HDPE bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 61,
+    "Material": "Plastic",
+    "Item": "High-density polyethylene bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 62,
+    "Material": "Plastic",
+    "Item": "Plastic bottle caps",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 63,
+    "Material": "Plastic",
+    "Item": "CD and CD casing",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 64,
+    "Material": "Plastic",
+    "Item": "Plastic bag (except oxo-degradable and bio-degradable bags)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 65,
+    "Material": "Plastic",
+    "Item": "LDPE plastic bag",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 66,
+    "Material": "Plastic",
+    "Item": "Low-density polyethylene plastic bag",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 67,
+    "Material": "Plastic",
+    "Item": "Number 4 plastic bag",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 68,
+    "Material": "Plastic",
+    "Item": "Plastic film/flexible packaging",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 69,
+    "Material": "Plastic",
+    "Item": "Plastic magazine wrapper",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 70,
+    "Material": "Plastic",
+    "Item": "Plastic film packaging for canned/packet drinks",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 71,
+    "Material": "Plastic",
+    "Item": "Bubble wrap",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 72,
+    "Material": "Plastic",
+    "Item": "Plastic packaging",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 73,
+    "Material": "Plastic",
+    "Item": "Sliced bread plastic bag",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 74,
+    "Material": "Plastic",
+    "Item": "Plastic egg tray",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 75,
+    "Material": "Plastic",
+    "Item": "Plastic clothes hanger",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 76,
+    "Material": "Plastic",
+    "Item": "Plastic takeaway food container (except styrofoam)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 77,
+    "Material": "Plastic",
+    "Item": "Plastic dabao food container (except styrofoam)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 78,
+    "Material": "Plastic",
+    "Item": "Plastic to-go food container (except styrofoam)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 79,
+    "Material": "Plastic",
+    "Item": "Polystyrene foam product",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 80,
+    "Material": "Plastic",
+    "Item": "Expanded polystyrene foam (EPS) / Styrofoam",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 81,
+    "Material": "Plastic",
+    "Item": "Styrofoam cup",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 82,
+    "Material": null,
+    "Item": "Styrofoam bowl and plate",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 83,
+    "Material": "Plastic",
+    "Item": "Styrofoam container",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 84,
+    "Material": "Plastic",
+    "Item": "Styrofoam clam shell container",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 85,
+    "Material": "Plastic",
+    "Item": "Styrofoam box",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 86,
+    "Material": "Plastic",
+    "Item": "Used plastic disposable cutlery",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 87,
+    "Material": "Plastic",
+    "Item": "Used plastic disposable spoon, fork and knife",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 88,
+    "Material": null,
+    "Item": "Used plastic disposable bowl and plate",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 89,
+    "Material": "Plastic",
+    "Item": "Plastic packaging with foil",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 90,
+    "Material": "Plastic",
+    "Item": "Blister pack with foil (for medicine pill/tablet/capsule)",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 91,
+    "Material": "Plastic",
+    "Item": "Potato chip bags",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 92,
+    "Material": "Plastic",
+    "Item": "Oxo-degradable and bio-degradable bags",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 93,
+    "Material": "Plastic",
+    "Item": "Drinking straw",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 94,
+    "Material": "Plastic",
+    "Item": "Cassette and video tape",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 95,
+    "Material": "Plastic",
+    "Item": "Plastic packaging contaminated with food",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 96,
+    "Material": "Plastic",
+    "Item": "Melamine product",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 97,
+    "Material": null,
+    "Item": "Melamine cup and mug",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 98,
+    "Material": null,
+    "Item": "Melamine bowl and plate",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 99,
+    "Material": "Glass",
+    "Item": "Glass bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 100,
+    "Material": null,
+    "Item": "Glass beverage/drink bottle (carbonated and non-carbonated)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 101,
+    "Material": null,
+    "Item": "Glass beverage/drink bottle (gassy and non-gassy)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 102,
+    "Material": null,
+    "Item": "Glass beer bottle",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 103,
+    "Material": null,
+    "Item": "Glass wine bottle",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 104,
+    "Material": null,
+    "Item": "Glass alcohol bottle",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 105,
+    "Material": "Glass",
+    "Item": "Glass food bottle/container/jar",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 106,
+    "Material": "Glass",
+    "Item": "Glass sauce bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 107,
+    "Material": "Glass",
+    "Item": "Glass condiment bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 108,
+    "Material": "Glass",
+    "Item": "Glass jam bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 109,
+    "Material": "Glass",
+    "Item": "Glass peanut butter bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 110,
+    "Material": "Glass",
+    "Item": "Glass spice bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 111,
+    "Material": "Glass",
+    "Item": "Glass cosmetics bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 112,
+    "Material": "Glass",
+    "Item": "Glass medicine bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 113,
+    "Material": "Glass",
+    "Item": "Glass supplement bottle/container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 114,
+    "Material": "Glass",
+    "Item": "Glassware",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 115,
+    "Material": "Glass",
+    "Item": "Glass cup",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 116,
+    "Material": "Glass",
+    "Item": "Wine glass",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 117,
+    "Material": "Glass",
+    "Item": "Glass mug",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 118,
+    "Material": "Glass",
+    "Item": "Glass bowl and plate",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 119,
+    "Material": "Glass",
+    "Item": "Glass tray",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 120,
+    "Material": "Glass",
+    "Item": "Glass bakeware (except borosilicate glass)",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 121,
+    "Material": "Glass",
+    "Item": "Glass thinner/acetone/solvent bottle",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 122,
+    "Material": "Glass",
+    "Item": "Borosilicate glass",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 123,
+    "Material": "Glass",
+    "Item": "Windows",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 124,
+    "Material": "Glass",
+    "Item": "Mirror",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 125,
+    "Material": "Ceramic",
+    "Item": "Ceramic cup and mug",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 126,
+    "Material": "Ceramic",
+    "Item": "Ceramic bowl and plate",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 127,
+    "Material": "Ceramic",
+    "Item": "Ceramic pot and pottery",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 128,
+    "Material": "Ceramic",
+    "Item": "Porcelain, stoneware, earthenware and china",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 129,
+    "Material": "Ceramic",
+    "Item": "Ceramic tea pot and cups",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 130,
+    "Material": "Metal",
+    "Item": "Metal can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 131,
+    "Material": "Metal",
+    "Item": "Metal drink/beverage can (carbonated and non-carbonated)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 132,
+    "Material": "Metal",
+    "Item": "Metal drink/beverage can (gassy and non-gassy)",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 133,
+    "Material": "Metal",
+    "Item": "Metal beer can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 134,
+    "Material": "Metal",
+    "Item": "Metal alcohol can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 135,
+    "Material": "Metal",
+    "Item": "Aluminium can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 136,
+    "Material": "Metal",
+    "Item": "Aluminium beer can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 137,
+    "Material": "Metal",
+    "Item": "Aluminum alcohol can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 138,
+    "Material": "Metal",
+    "Item": "Metal can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 139,
+    "Material": "Metal",
+    "Item": "Metal food can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 140,
+    "Material": "Metal",
+    "Item": "Steel can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 141,
+    "Material": "Metal",
+    "Item": "Metal biscuit tin",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 142,
+    "Material": "Metal",
+    "Item": "Metal food tin",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 143,
+    "Material": "Metal",
+    "Item": "Metal canned food can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 144,
+    "Material": "Metal",
+    "Item": "Tin can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 145,
+    "Material": "Metal",
+    "Item": "Metal bottle cap",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 146,
+    "Material": "Metal",
+    "Item": "Aerosol can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 147,
+    "Material": "Metal",
+    "Item": "Clean aluminium tray and foil",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 148,
+    "Material": "Metal",
+    "Item": "Metal container",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 149,
+    "Material": "Metal",
+    "Item": "Metal paint container/can",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 150,
+    "Material": "Electronics",
+    "Item": "Light bulb",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 151,
+    "Material": "Electronics",
+    "Item": "Information Technology (IT) accessories",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins or collection points</a></p>"
+  },
+  {
+    "Num": 152,
+    "Material": "Electronics",
+    "Item": "Electronic waste",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins or collection points</a></p>"
+  },
+  {
+    "Num": 153,
+    "Material": "Electronics",
+    "Item": "Electronics",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 154,
+    "Material": "Electronics",
+    "Item": "Mobile phone / handphone",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 155,
+    "Material": "Electronics",
+    "Item": "Tablet / iPad",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 156,
+    "Material": "Electronics",
+    "Item": "Laptop / Notebook computer",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 157,
+    "Material": "Electronics",
+    "Item": "Desktop / All-in-one computer",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 158,
+    "Material": "Electronics",
+    "Item": "MP3 player",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 159,
+    "Material": "Electronics",
+    "Item": "Rechargable and alkaline battery",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 160,
+    "Material": "Electronics",
+    "Item": "AA, AAA, AAAA, D, C, 9-volt, and button cell battery",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 161,
+    "Material": "Electronics",
+    "Item": "Lithium-ion (Li-ion) battery",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 162,
+    "Material": "Electronics",
+    "Item": "Household battery",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 163,
+    "Material": "Electronics",
+    "Item": "Large household/home appliances",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 164,
+    "Material": "Electronics",
+    "Item": "Refridgerator",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 165,
+    "Material": "Electronics",
+    "Item": "Washing machine",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 166,
+    "Material": "Electronics",
+    "Item": "Television (TV)",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 167,
+    "Material": "Electronics",
+    "Item": "Air conditioner / aircon",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 168,
+    "Material": "Electronics",
+    "Item": "Laundry dryer",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 169,
+    "Material": "Electronics",
+    "Item": "Small household/home appliances",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 170,
+    "Material": "Electronics",
+    "Item": "Electric fan",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 171,
+    "Material": "Electronics",
+    "Item": "Electric rice cooker",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 172,
+    "Material": "Electronics",
+    "Item": "Electric kettle",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 173,
+    "Material": "Electronics",
+    "Item": "Hair dryer and straightener",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 174,
+    "Material": "Electronics",
+    "Item": "Air fryer",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 175,
+    "Material": "Electronics",
+    "Item": "Toaster oven",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 176,
+    "Material": "Electronics",
+    "Item": "Vacuum cleaner",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 177,
+    "Material": "Electronics",
+    "Item": "Small household medical equipment",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 178,
+    "Material": "Electronics",
+    "Item": "Blood pressure and glucose monitor",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 179,
+    "Material": "Electronics",
+    "Item": "Audiovisual (AV) and HiFi equipment",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 180,
+    "Material": "Electronics",
+    "Item": "Speaker (wired, wireless and bluetooth)",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 181,
+    "Material": "Electronics",
+    "Item": "Sound system, amplifier, speaker, woofer, sound bar",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 182,
+    "Material": "Electronics",
+    "Item": "Thumb drive, portable hard disk and memory/SD card",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 183,
+    "Material": "Electronics",
+    "Item": "Printed Circuit Board (PCB)",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 184,
+    "Material": "Electronics",
+    "Item": "Electric/computer/charging cables and wires",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 185,
+    "Material": "Electronics",
+    "Item": "Power supply and charger",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 186,
+    "Material": "Electronics",
+    "Item": "Remote control",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 187,
+    "Material": "Electronics",
+    "Item": "Keyboard and mouse (wired, wireless and bluetooth)",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 188,
+    "Material": "Electronics",
+    "Item": "Home/Office telephone (wired or wireless)",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 189,
+    "Material": "Electronics",
+    "Item": "Calculator",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 190,
+    "Material": "Electronics",
+    "Item": "Clocks",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 191,
+    "Material": "Electronics",
+    "Item": "Headphones and earbuds (wired, wireless and bluetooth)",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 192,
+    "Material": "Electronics",
+    "Item": "Camera",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 193,
+    "Material": "Electronics",
+    "Item": "Projector",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 194,
+    "Material": "Electronics",
+    "Item": "LCD sceen/monitor",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Virogreen)</a></p>"
+  },
+  {
+    "Num": 195,
+    "Material": "Electronics",
+    "Item": "Printer ink and toner cartridge",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">dedicated recycling bins (Project Homecoming)</a></p>"
+  },
+  {
+    "Num": 196,
+    "Material": "Textiles",
+    "Item": "Clothes",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 197,
+    "Material": "Textiles",
+    "Item": "Bed linen, bedsheet, pillowcases, blankets and duvet",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 198,
+    "Material": "Textiles",
+    "Item": "Cloth, canvas and leather bags",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 199,
+    "Material": "Textiles",
+    "Item": "Sling/messenger bag, backpack, fanny pack, handbag",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 200,
+    "Material": "Others",
+    "Item": "Soft toy",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 201,
+    "Material": "Others",
+    "Item": "Umbrella",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 202,
+    "Material": "Others",
+    "Item": "Glasses / spectacles",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 203,
+    "Material": "Others",
+    "Item": "Shoes",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">dedicated recycling bins</a></p>"
+  },
+  {
+    "Num": 204,
+    "Material": "Others",
+    "Item": "Leftover medicine/supplements",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 205,
+    "Material": "Others",
+    "Item": "Writing materials, pen, pencil, marker",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 206,
+    "Material": "Others",
+    "Item": "Luggage bag",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 207,
+    "Material": "Organic",
+    "Item": "Diaper and sanitary pad",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 208,
+    "Material": "Organic",
+    "Item": "Food waste/leftovers",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 209,
+    "Material": "Organic",
+    "Item": "Plant and horticultural waste",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Landed estates only: bag and place outside your house on collection days</p>"
+  },
+  {
+    "Num": 210,
+    "Material": "Organic",
+    "Item": "Gardening waste",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Landed estates only: bag and place outside your house on collection days</p>"
+  },
+  {
+    "Num": 211,
+    "Material": "Household",
+    "Item": "Bulky household objects",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → contact town council to remove from your house</p>"
+  },
+  {
+    "Num": 212,
+    "Material": "Household",
+    "Item": "Furniture",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → contact town council to remove from your house</p>"
+  },
+  {
+    "Num": 213,
+    "Material": "Household",
+    "Item": "Sofa",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → contact town council to remove from your house</p>"
+  },
+  {
+    "Num": 214,
+    "Material": "Household",
+    "Item": "Solid wood table/chair/furniture",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → contact town council to remove from your house</p>"
+  },
+  {
+    "Num": 215,
+    "Material": "Household",
+    "Item": "Laminate wood table/chair/furniture",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → contact town council to remove from your house</p>"
+  }
+]
