@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Items from './components/Items';
 import Footer from './components/Footer';
-import listData from './ItemsList.json';
+import listData from './ItemsList2.json';
 
 const appTitle = "Can Recycle Anot?";
 
@@ -45,8 +45,8 @@ const expandItem = (num) => {
 
 // Search Function
 const [q, setQ] = useState("");
-// const [searchParam] = useState(["Material", "Item"]);
-const [searchParam] = useState(["Item"]);
+const [searchParam] = useState(["SpecificType", "Item"]);
+//const [searchParam] = useState(["Item"]);
 
 /*
 // How to implement a dynamic margin height?
@@ -85,7 +85,7 @@ useEffect(() => {
         <div className="header-cont"> 
           <Header title={appTitle} scrollTop={scrollTop}/> 
           <div className="search-cont">
-          <input id="search" type="search" placeholder=" search... or type '?' for legend" value={q} onChange={(e) => { 
+          <input id="search" type="search" placeholder="search for an item..." value={q} onChange={(e) => { 
           setQ(e.target.value);
           }}/>
           </div>

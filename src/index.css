@@ -53,13 +53,16 @@ header, footer {
   max-width: 600px;
 }
 
-#head2.big {
+#head2 {
   display: flex;
+  align-items: center;
+}
+
+#head2.big {
   height: 2em;
 }
 
 #head2.small {
-  display: flex;
   height: 1.5em;
 }
 
@@ -73,6 +76,7 @@ header, footer {
 
 header p {
   margin-top:10px;
+  margin-bottom: 15px;
 }
 
 #dummy-header {
@@ -94,9 +98,30 @@ header p {
 #search {
   display: block;
   flex-grow:1; 
-  /*height: 2em;*/
-  font-size: 1em;
+  /* height: 2em; ←why was this commented? */
+  /* font-size: 1em; */
   margin-bottom: 5px;
+  border: none;
+  height: 2em;
+  border-radius: 0.5em;
+  padding-left: 0.7em;
+}
+
+#search:focus {
+  outline: solid 2px #62BBC4;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+
+  /* Remove default */
+  -webkit-appearance: none;
+
+  /* Now your own custom styles */
+  height: 20px;
+  width: 20px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23777'><path d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z'/></svg>");
+  cursor: pointer;
+
 }
 
 .items-flex{
@@ -109,15 +134,39 @@ header p {
   padding-right: 10px;
 }
 
+.landing-tip {
+  max-width: 50ex;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #444;
+  text-align: center;
+  line-height:1.25em;
+}
+
+@media screen and (max-width: 450px) {
+  .landing-tip {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+.items-cont > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 70%;
+}
+
 .title {
   margin-left: 10px;
 }
 
 .item {
   background-color: white;
-  margin: 15px 10px 15px 10px;
-  padding: 10px;
-  border-radius: 10px;
+  margin: 15px 10px 0px 10px;
+  border-radius: 10px 10px 0px 0px;
   display: flex;
   flex-direction: column;
 }
@@ -131,22 +180,98 @@ header p {
 .item3 {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 
-.itemRemarks {
-  background-color: #FFECBB;
-  border-radius: 10px;
+.itemName {
+  padding-top: 3px;
+}
+
+.more-tabs {
+  display: flex;
+/*   gap: 5px; */
+  padding: 0px 10px;
+  
+}
+
+.more-tabs > small {
   padding: 0px 10px 0px 10px;
+  font-size: 0.9em;
+  cursor: pointer;
+  vertical-align: top;
+  flex-grow: 1;
+}
+
+
+.itemRemarks {
+  background-color: #FFE6A5;
+}
+
+.expanded {
+    border-radius: 0px;
+}
+
+.condensed{
+  border-radius: 0px 0px 5px 5px;
+}
+
+.moreinfo {
+  font-size: 0.9em;
+  padding: 15px 10px 10px 10px;
+  border-radius: 0px 0px 5px 5px;
+  color: #666;
+  margin-top: -5px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .instCont{
-  color: #666;
   padding-bottom: 10px;
+  background-color: #FFE6A5;
   /* display: none; */
 }
 
+.instCont p {
+  margin-bottom: 5px;
+}
+
+.instCont p:last-child {
+  margin-bottom: 0px;
+}
+
+.instrBut, .allItemsBut {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  padding: 3px 0px;
+  letter-spacing: 0.5px;
+}
+
+.instrBut svg,.allItemsBut svg {
+  vertical-align: -10%;
+  color: #888;
+}
+
+.allItems {
+  background-color: #E0E0E0;
+}
+
+.allItemsCont {
+  background-color: #E0E0E0;
+  color: #E0E0E0;
+}
+
+.allItemsCont .list-item{
+  display: inline-block;
+  background-color: #FFF;
+  padding: 2px 6px;
+  margin: 3px 0px 3px 5px;
+  border-radius: 6px;
+  color: #666;
+}
+
 .rec-yes {
-  color: limegreen;
+/*   height: 1.5em; */
 }
 
 .rec-no {
@@ -154,23 +279,22 @@ header p {
 }
 
 .rec-may {
-  color: yellowgreen;
+  color: limegreen;
 }
 
-.isItemRe h2 {
+.isItemRe > * {
   display: block;
-  text-align: right;
-  width: 40px;
-}
-
-.instrBut {
   text-align: center;
+  width: 24px;
+  padding-left: 10px;
+  padding-right: 5px;
 }
 
 footer {
   display: flex;
+  gap: 0.5em;
   flex-direction: column;
   text-align: center;
   color: black;
+  margin-top: 30px;
 }
-

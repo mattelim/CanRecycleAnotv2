@@ -29,7 +29,7 @@ const Logo = () => {
           <Logo />
         <h2>{title}</h2>
       </div>
-      <p>A quick and easy guide to what can be recycled in Singapore </p>
+      <p>A simple guide to recycling in Singapore 🇸🇬</p>
     </header>
   )
 }

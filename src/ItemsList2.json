@@ -1,0 +1,322 @@
+[
+  {
+    "Num": 1,
+    "GeneralType ": "Paper",
+    "SpecificType": "sheet paper",
+    "Item": "<span class=\"list-item\">Printed paper (glossy and non-glossy)</span><span class=\"list-item\">Writing paper</span><span class=\"list-item\">Newspaper</span><span class=\"list-item\">Paper flyers (glossy and non-glossy)</span><span class=\"list-item\">Brochure (glossy and non-glossy)</span><span class=\"list-item\">Envelope (with and without clear window)</span><span class=\"list-item\">Red packet</span><span class=\"list-item\">Namecard</span><span class=\"list-item\">Greeting card</span><span class=\"list-item\">Gift wrapping paper</span><span class=\"list-item\">Shredded paper</span><span class=\"list-item\">Paper receipt</span>",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 2,
+    "GeneralType ": "Paper",
+    "SpecificType": "books, magazines and binded paper",
+    "Item": "<span class=\"list-item\">Magazine (glossy and non-glossy)</span><span class=\"list-item\">Book (hardcover, paperback, softcover)</span><span class=\"list-item\">Paper telephone directory</span><span class=\"list-item\">Paper calendar</span>",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 3,
+    "GeneralType ": "Paper",
+    "SpecificType": "paper and cardboard packaging",
+    "Item": "<span class=\"list-item\">Carton box</span><span class=\"list-item\">Paper packaging</span><span class=\"list-item\">Printed paper box</span><span class=\"list-item\">Cardboard box</span><span class=\"list-item\">Paper and cardboard egg tray</span><span class=\"list-item\">Tissue box</span><span class=\"list-item\">Paper bag</span><span class=\"list-item\">Paper towel and toilet roll tube</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Flatten</p>"
+  },
+  {
+    "Num": 4,
+    "GeneralType ": "Paper",
+    "SpecificType": "paper beverage packaging",
+    "Item": "<span class=\"list-item\">Beverage carton/packet</span><span class=\"list-item\">Milk carton</span><span class=\"list-item\">Juice carton</span><span class=\"list-item\">Drink carton/packet</span><span class=\"list-item\">Tetra Pak</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty, rinse and flatten</p>"
+  },
+  {
+    "Num": 5,
+    "GeneralType ": "Paper",
+    "SpecificType": "paper disposables",
+    "Item": "<span class=\"list-item\">Used paper disposables</span><span class=\"list-item\">Used paper cup</span><span class=\"list-item\">Used paper plate</span><span class=\"list-item\">Paper straw</span><span class=\"list-item\">Tissue paper</span><span class=\"list-item\">Paper towel</span><span class=\"list-item\">Toilet paper</span><span class=\"list-item\">Waxed paper</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 6,
+    "GeneralType ": "Paper",
+    "SpecificType": "paper food packaging",
+    "Item": "<span class=\"list-item\">Paper packaging that are contaminated with food</span><span class=\"list-item\">Paper packaging with grease/oil stains</span><span class=\"list-item\">Greasy pizza box</span><span class=\"list-item\">Greasy pastry paper bag</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 7,
+    "GeneralType ": "Wood",
+    "SpecificType": "wooden food disposables",
+    "Item": "<span class=\"list-item\">Disposable wooden chopstick</span><span class=\"list-item\">Disposable wooden fork, spoon, knife</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 8,
+    "GeneralType ": "Plastic",
+    "SpecificType": "plastic food and beverage containers",
+    "Item": "<span class=\"list-item\">Plastic bottle/container</span><span class=\"list-item\">Plastic food container</span><span class=\"list-item\">Plastic beverage/drink bottle (carbonated and non-carbonated)</span><span class=\"list-item\">Plastic beverage/drink bottle (gassy and non-gassy)</span><span class=\"list-item\">PET bottles/containers</span><span class=\"list-item\">Number 1, 2, 5, 6 plastic bottle/container</span><span class=\"list-item\">Polyethylene terephthalate bottles/containers</span><span class=\"list-item\">PETE bottles/containers</span><span class=\"list-item\">PP bottles/containers</span><span class=\"list-item\">Polypropylene bottles/containers</span><span class=\"list-item\">PS bottles/containers</span><span class=\"list-item\">Polystyrene bottles/containers</span><span class=\"list-item\">HDPE bottle/container</span><span class=\"list-item\">High-density polyethylene bottle/container</span><span class=\"list-item\">Plastic egg tray</span><span class=\"list-item\">Plastic bottle caps</span><span class=\"list-item\">plastic dairy bottle/container (milk, butter, cream, yogurt)</span><span class=\"list-item\">Plastic takeaway food container </span><span class=\"list-item\">Plastic dabao food container </span><span class=\"list-item\">Plastic to-go food container </span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>\n<p>Recycle HDPE and PP plastic locally through <a href=\"https://www.theplasticproject.sg/\" target=\"_blank\">The Plastic Project</a></p>"
+  },
+  {
+    "Num": 9,
+    "GeneralType ": "Plastic",
+    "SpecificType": "plastic hygiene and cleaning product containers",
+    "Item": "<span class=\"list-item\">Plastic cleaning product bottle/container</span><span class=\"list-item\">Plastic washing product bottle/container</span><span class=\"list-item\">Plastic shampoo bottle/container</span><span class=\"list-item\">Plastic bodywash bottle/container</span><span class=\"list-item\">Plastic facial cleanser bottle/container</span><span class=\"list-item\">Plastic detergent bottle/container</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>\n<p>Recycle HDPE and PP plastic locally through <a href=\"https://www.theplasticproject.sg/\" target=\"_blank\">The Plastic Project</a></p>"
+  },
+  {
+    "Num": 10,
+    "GeneralType ": "Plastic",
+    "SpecificType": "plastic single-material products",
+    "Item": "<span class=\"list-item\">CD and CD casing</span><span class=\"list-item\">Plastic clothes hanger</span>",
+    "Recycle": "YES",
+    "Instructions": null
+  },
+  {
+    "Num": 11,
+    "GeneralType ": "Plastic",
+    "SpecificType": "plastic film",
+    "Item": "<span class=\"list-item\">Plastic bag</span><span class=\"list-item\">LDPE plastic bag</span><span class=\"list-item\">Low-density polyethylene plastic bag</span><span class=\"list-item\">Number 4 plastic bag</span><span class=\"list-item\">Plastic film/flexible packaging</span><span class=\"list-item\">Plastic magazine wrapper</span><span class=\"list-item\">Plastic film packaging for canned/packet drinks</span><span class=\"list-item\">Bubble wrap</span><span class=\"list-item\">Sliced bread plastic bag</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents, rinse if necessary</p>"
+  },
+  {
+    "Num": 12,
+    "GeneralType ": "Plastic",
+    "SpecificType": "styrofoam",
+    "Item": "<span class=\"list-item\">Polystyrene foam product</span><span class=\"list-item\">Expanded polystyrene foam (EPS) / Styrofoam</span><span class=\"list-item\">Styrofoam cup</span><span class=\"list-item\">Styrofoam bowl and plate</span><span class=\"list-item\">Styrofoam container</span><span class=\"list-item\">Styrofoam clam shell container</span><span class=\"list-item\">Styrofoam box</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 13,
+    "GeneralType ": "Plastic",
+    "SpecificType": "plastic disposable cutlery and straws",
+    "Item": "<span class=\"list-item\">Used plastic disposable cutlery</span><span class=\"list-item\">Used plastic disposable cups, bowls, plates</span><span class=\"list-item\">Used plastic disposable spoon, fork and knife</span><span class=\"list-item\">Drinking straw</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 14,
+    "GeneralType ": "Plastic",
+    "SpecificType": "plastic film with foil",
+    "Item": "<span class=\"list-item\">Plastic packaging with foil</span><span class=\"list-item\">Blister pack with foil (for medicine pill/tablet/capsule)</span><span class=\"list-item\">Potato chip bags</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 15,
+    "GeneralType ": "Plastic",
+    "SpecificType": "oxo-degradable and bio-degradable plastic",
+    "Item": "<span class=\"list-item\">Oxo-degradable and bio-degradable bags</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 16,
+    "GeneralType ": "Plastic",
+    "SpecificType": "melamine plastic",
+    "Item": "<span class=\"list-item\">Melamine product</span><span class=\"list-item\">Melamine cup and mug</span><span class=\"list-item\">Melamine bowl and plate</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 17,
+    "GeneralType ": "Glass",
+    "SpecificType": "glass food and beverage containers",
+    "Item": "<span class=\"list-item\">Glass bottle/container</span><span class=\"list-item\">Glass beverage/drink bottle (carbonated and non-carbonated)</span><span class=\"list-item\">Glass beverage/drink bottle (gassy and non-gassy)</span><span class=\"list-item\">Glass beer bottle</span><span class=\"list-item\">Glass wine bottle</span><span class=\"list-item\">Glass alcohol bottle</span><span class=\"list-item\">Glass food bottle/container/jar</span><span class=\"list-item\">Glass sauce bottle/container</span><span class=\"list-item\">Glass condiment bottle/container</span><span class=\"list-item\">Glass jam bottle/container</span><span class=\"list-item\">Glass peanut butter bottle/container</span><span class=\"list-item\">Glass spice bottle/container</span><span class=\"list-item\">Glassware</span><span class=\"list-item\">Glass cup</span><span class=\"list-item\">Wine glass</span><span class=\"list-item\">Glass mug</span><span class=\"list-item\">Glass bowl and plate</span><span class=\"list-item\">Glass tray</span><span class=\"list-item\">Glass bakeware</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 18,
+    "GeneralType ": "Glass",
+    "SpecificType": "glass medicine and cosmetic containers",
+    "Item": "<span class=\"list-item\">Glass cosmetics bottle/container</span><span class=\"list-item\">Glass medicine bottle/container</span><span class=\"list-item\">Glass supplement bottle/container</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 19,
+    "GeneralType ": "Glass",
+    "SpecificType": "glass chemical containers",
+    "Item": "<span class=\"list-item\">Glass thinner/acetone/solvent bottle</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 20,
+    "GeneralType ": "Glass",
+    "SpecificType": "borosilicate glass",
+    "Item": "<span class=\"list-item\">Borosilicate glass</span><span class=\"list-item\">Pyrex bakeware</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 21,
+    "GeneralType ": "Glass",
+    "SpecificType": "glass mirror and window",
+    "Item": "<span class=\"list-item\">Windows</span><span class=\"list-item\">Mirror</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 22,
+    "GeneralType ": "Metal",
+    "SpecificType": "metal food and beverage containers",
+    "Item": "<span class=\"list-item\">Metal can</span><span class=\"list-item\">Metal drink/beverage can (carbonated and non-carbonated)</span><span class=\"list-item\">Metal drink/beverage can (gassy and non-gassy)</span><span class=\"list-item\">Metal beer can</span><span class=\"list-item\">Metal alcohol can</span><span class=\"list-item\">Aluminium can</span><span class=\"list-item\">Aluminium beer can</span><span class=\"list-item\">Aluminum alcohol can</span><span class=\"list-item\">Metal food can</span><span class=\"list-item\">Steel can</span><span class=\"list-item\">Metal biscuit tin</span><span class=\"list-item\">Metal food tin</span><span class=\"list-item\">Metal canned food can</span><span class=\"list-item\">Tin can</span><span class=\"list-item\">Metal bottle cap</span><span class=\"list-item\">Clean aluminium tray and foil</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty and rinse</p>"
+  },
+  {
+    "Num": 23,
+    "GeneralType ": "Metal",
+    "SpecificType": "metal paint and chemical containers",
+    "Item": "<span class=\"list-item\">Aerosol can</span><span class=\"list-item\">Metal paint container/can</span>",
+    "Recycle": "YES",
+    "Instructions": "<p>Empty contents</p>"
+  },
+  {
+    "Num": 24,
+    "GeneralType ": "Others",
+    "SpecificType": "ceramics",
+    "Item": "<span class=\"list-item\">Ceramic cup and mug</span><span class=\"list-item\">Ceramic bowl and plate</span><span class=\"list-item\">Ceramic pot and pottery</span><span class=\"list-item\">Porcelain, stoneware, earthenware and china</span><span class=\"list-item\">Ceramic tea pot and cups</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish</p>"
+  },
+  {
+    "Num": 25,
+    "GeneralType ": "E-waste",
+    "SpecificType": "light bulb",
+    "Item": "<span class=\"list-item\">Light bulb</span>",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 26,
+    "GeneralType ": "E-waste",
+    "SpecificType": "small to medium sized electronics and appliances",
+    "Item": "<span class=\"list-item\">Information Technology (IT) accessories</span><span class=\"list-item\">Electronics</span><span class=\"list-item\">Mobile phone / handphone</span><span class=\"list-item\">Tablet / iPad</span><span class=\"list-item\">Laptop / Notebook computer</span><span class=\"list-item\">Desktop / All-in-one computer</span><span class=\"list-item\">MP3 player</span><span class=\"list-item\">Small household/home appliances</span><span class=\"list-item\">Electric fan</span><span class=\"list-item\">Electric rice cooker</span><span class=\"list-item\">Electric kettle</span><span class=\"list-item\">Hair dryer and straightener</span><span class=\"list-item\">Air fryer</span><span class=\"list-item\">Toaster oven</span><span class=\"list-item\">Vacuum cleaner</span><span class=\"list-item\">Small household medical equipment</span><span class=\"list-item\">Blood pressure and glucose monitor</span><span class=\"list-item\">Audiovisual (AV) and HiFi equipment</span><span class=\"list-item\">Speaker (wired, wireless and bluetooth)</span><span class=\"list-item\">Thumb drive, portable hard disk and memory/SD card</span><span class=\"list-item\">Printed Circuit Board (PCB)</span><span class=\"list-item\">Electric/computer/charging cables and wires</span><span class=\"list-item\">Power supply and charger</span><span class=\"list-item\">Remote control</span><span class=\"list-item\">Keyboard and mouse (wired, wireless and bluetooth)</span><span class=\"list-item\">Home/Office telephone (wired or wireless)</span><span class=\"list-item\">Calculator</span><span class=\"list-item\">Clocks</span><span class=\"list-item\">Headphones and earbuds (wired, wireless and bluetooth)</span><span class=\"list-item\">Camera</span><span class=\"list-item\">Projector</span><span class=\"list-item\">LCD sceen/monitor</span><span class=\"list-item\">Sound system, amplifier, speaker, woofer, sound bar</span>",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 27,
+    "GeneralType ": "E-waste",
+    "SpecificType": "batteries",
+    "Item": "<span class=\"list-item\">Rechargable and alkaline battery</span><span class=\"list-item\">AA, AAA, AAAA, D, C, 9-volt, and button cell battery</span><span class=\"list-item\">Lithium-ion (Li-ion) battery</span><span class=\"list-item\">Household battery</span>",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p> \n<p>Bad condition → recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">e-waste recycling bins (Alba)</a></p>"
+  },
+  {
+    "Num": 28,
+    "GeneralType ": "E-waste",
+    "SpecificType": "large electronics and appliances",
+    "Item": "<span class=\"list-item\">Large household/home appliances</span><span class=\"list-item\">Refridgerator</span><span class=\"list-item\">Washing machine</span><span class=\"list-item\">Television (TV)</span><span class=\"list-item\">Air conditioner / aircon</span><span class=\"list-item\">Laundry dryer</span>",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle through <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">doorstop collection (Alba)</a></p>"
+  },
+  {
+    "Num": 29,
+    "GeneralType ": "E-waste",
+    "SpecificType": "Printer ink and toner cartridge",
+    "Item": "<span class=\"list-item\">Printer ink and toner cartridge</span>",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Recycle at <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste\" target=\"_blank\">dedicated recycling bins (Project Homecoming)</a></p>"
+  },
+  {
+    "Num": 30,
+    "GeneralType ": "Others",
+    "SpecificType": "clothing and accessories",
+    "Item": "<span class=\"list-item\">Clothes</span><span class=\"list-item\">Glasses / spectacles, sunglasses</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 31,
+    "GeneralType ": "Others",
+    "SpecificType": "shoes",
+    "Item": "<span class=\"list-item\">Shoes</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → recycle at <a href=\"https://circle.myactivesg.com/old-shoe-new-future\" target=\"_blank\">Old Shoe New Future project</a></p>"
+  },
+  {
+    "Num": 32,
+    "GeneralType ": "Others",
+    "SpecificType": "linen",
+    "Item": "<span class=\"list-item\">Bed linen, bedsheet, pillowcases, blankets and duvet</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 33,
+    "GeneralType ": "Others",
+    "SpecificType": "bags and luggage",
+    "Item": "<span class=\"list-item\">Cloth, canvas and leather bags</span><span class=\"list-item\">Sling/messenger bag, backpack, fanny pack, handbag</span><span class=\"list-item\">Luggage bag</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 34,
+    "GeneralType ": "Others",
+    "SpecificType": "toys",
+    "Item": "<span class=\"list-item\">Soft toy</span><span class=\"list-item\">toys</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → rubbish bin</p>"
+  },
+  {
+    "Num": 35,
+    "GeneralType ": "Others",
+    "SpecificType": "medication and supplements",
+    "Item": "<span class=\"list-item\">Leftover medicine, medication, supplements</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 36,
+    "GeneralType ": "Others",
+    "SpecificType": "stationery",
+    "Item": "<span class=\"list-item\">Writing materials, pen, pencil, marker</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 37,
+    "GeneralType ": "Others",
+    "SpecificType": "sanitary waste",
+    "Item": "<span class=\"list-item\">Diaper and sanitary pad</span>",
+    "Recycle": "NO",
+    "Instructions": null
+  },
+  {
+    "Num": 38,
+    "GeneralType ": "Others",
+    "SpecificType": "food waste",
+    "Item": "<span class=\"list-item\">Food waste/leftovers</span>",
+    "Recycle": "NO",
+    "Instructions": "<p><a href=\"https://www.towardszerowaste.gov.sg/foodwaste/\" target=\"_blank\">Dealing with food waste</a></p>"
+  },
+  {
+    "Num": 39,
+    "GeneralType ": "Others",
+    "SpecificType": "plant and horticultural waste",
+    "Item": "<span class=\"list-item\">Plant and horticultural waste</span><span class=\"list-item\">Gardening waste</span>",
+    "Recycle": "MAYBE",
+    "Instructions": "<p>Landed estates only: bag and place outside your house on collection days</p>"
+  },
+  {
+    "Num": 40,
+    "GeneralType ": "Others",
+    "SpecificType": "large furniture",
+    "Item": "<span class=\"list-item\">Bulky household objects</span><span class=\"list-item\">Furniture</span><span class=\"list-item\">Sofa</span><span class=\"list-item\">Solid wood table/chair/furniture</span><span class=\"list-item\">Laminate wood table/chair/furniture</span>",
+    "Recycle": "NO",
+    "Instructions": "<p>Good condition → <a href=\"https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points\" target=\"_blank\">donate</a> or <a href=\"https://www.carousell.sg/\" target=\"_blank\">sell </a></p>\n<p>Bad condition → contact town council to remove from your house</p>"
+  }
+]

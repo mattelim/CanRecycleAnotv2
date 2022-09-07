@@ -1,36 +1,42 @@
 import React from 'react'
 import Item from './Item'
+// import LandingImage from '../RecyclingIso.png'
 
 const Items = ({ items, /*onExpand,*/ q, searchParam }) => {
 
   const legend = [
     {
     "Num": 1,
-    "Item": "Can be recycled in the blue recycling bins",
+    "SpecificType": "Can be recycled in the blue recycling bins",
+      "Item": "<span class=\"list-item\">specific Item 1</span>,<span class=\"list-item\">specific Item 2</span>,<span class=\"list-item\">specific Item 3</span>,",
     "Recycle": "YES",
     "Instructions": null
     },
     {
     "Num": 2,
-    "Item": "Can be recycled in the blue recycling bins — click for more instructions",
+    "SpecificType": "Can be recycled in the blue recycling bins — click for more instructions",
+     "Item": "<span class=\"list-item\">specific Item 1</span>,<span class=\"list-item\">specific Item 2</span>,<span class=\"list-item\">specific Item 3</span>,",
     "Recycle": "YES",
     "Instructions": "Specific instructions here"
     },
     {
     "Num": 3,
-    "Item": "Can be recycled but not in blue recycling bins — click for more instructions",
+    "SpecificType": "Can be recycled but not in blue recycling bins — click for more instructions",
+     "Item": "<span class=\"list-item\">specific Item 1</span>,<span class=\"list-item\">specific Item 2</span>,<span class=\"list-item\">specific Item 3</span>,",
     "Recycle": "MAYBE",
     "Instructions": "Specific instructions here"
     },
     {
     "Num": 4,
-    "Item": "Cannot be recycled — click for more instructions",
+    "SpecificType": "Cannot be recycled — click for more instructions",
+    "Item": "<span class=\"list-item\">specific Item 1</span>,<span class=\"list-item\">specific Item 2</span>,<span class=\"list-item\">specific Item 3</span>,",
     "Recycle": "NO",
     "Instructions": "Specific instructions here"
     },
     {
     "Num": 5,
-    "Item": "Cannot be recycled — put into rubbish bin",
+    "SpecificType": "Cannot be recycled — put into rubbish bin",
+    "Item": "<span class=\"list-item\">specific Item 1</span>,<span class=\"list-item\">specific Item 2</span>,<span class=\"list-item\">specific Item 3</span>,",
     "Recycle": "NO",
     "Instructions": null
     },
@@ -70,7 +76,7 @@ const Items = ({ items, /*onExpand,*/ q, searchParam }) => {
   return prev && (item['Item'].toString().toLowerCase() + item['Material'].toString().toLowerCase()).indexOf(curr.toLowerCase()) > -1;
   */
   
-  const isLegend = q == "?";
+  const isLegend = q == "";
   
   if (q != "" && !isLegend) {
     items = searchItems(items);
@@ -80,8 +86,11 @@ const Items = ({ items, /*onExpand,*/ q, searchParam }) => {
 
   const LegendTitle = () => {
     if (isLegend) {
-      return (
-        <strong className="title">Legend</strong>
+      return ( 
+        <>
+          <p className="landing-tip">To get optimal results, include both the material and the object. E.g. 'plastic bottle' </p>
+        <img src="https://i.ibb.co/DGLm7TV/Recycling-Isometric.png" alt="Person recycling" /> <strong className="title">Legend</strong>
+        </>
       )
     }
     return null
